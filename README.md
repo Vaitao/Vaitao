@@ -22,5 +22,3 @@ Olá!! Eu sou o Vitor
   <a href="https://www.linkedin.com/in/vitor-chaves-47b342257" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5518996872953" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
-
-![snake gif](https://github.com/Vaitao/Vaitao/blob/output/github-contribution-grid-snake.svg)
