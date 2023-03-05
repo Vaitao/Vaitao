@@ -1,6 +1,6 @@
 <h1>Olá!! Eu sou o Vitor</h1>
 
-- 🌱 Estudando: Linguagem C, HTML e CSS
+- 🌱 Estudando: Linguagem C, HTML, CSS e Python
 - 😄 Pronomes: Ele/Dele ...
 - ⚡ Quero me tornar um programador Full Stack
 
